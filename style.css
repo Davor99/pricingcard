@@ -1,0 +1,61 @@
+.basic-plan {
+  font-weight: 700;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  margin: 0;
+}
+
+.body {
+  border-bottom-color: rgb(229, 231, 235);
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  border-bottom-style: solid;
+  border-left-color: rgb(229, 231, 235);
+  border-left-style: solid;
+  border-right-color: rgb(229, 231, 235);
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  border-top-style: solid;
+  line-height: 24px;
+  margin-left: 238.4px;
+  margin-right: 238.4px;
+  margin-top: 20px;
+  max-width: 448px;
+  tab-size: 4;
+  text-size-adjust: 100%;
+  height: 311.2px;
+  width: 448px;
+  box-sizing: border-box;
+  display: block;
+}
+
+.text {
+  color: rgb(107, 114, 128);
+  line-height: 24px;
+  display: block;
+  box-sizing: border-box;
+  tab-size: 4;
+  unicode-range: isolate;
+}
+
+.buttons button {
+  opacity: 1;
+  color: white;
+  font-weight: 600;
+
+  background-color: rgb(37, 66, 235);
+  border-radius: 0.25rem;
+ 
+  cursor: pointer;
+  box-sizing: border-box;
+
+
+margin: 16px;
+padding-left: 32px;
+padding-top: 6px;
+padding-bottom: 16px;
+padding-right: 32px;
+width: 135px;
+height: 24px;
+
+}
